@@ -1,0 +1,11 @@
+Python cache
+
+pycache/
+*.py[cod]
+*$py.class
+
+Environment variables / API keys
+
+.env
+.env.*
+!.env.example
